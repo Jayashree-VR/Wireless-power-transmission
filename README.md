@@ -94,9 +94,4 @@ The wireless power transmission project provides a foundational understanding of
 
 ---
 
-## Images  
 
-
-```markdown
-![Alt Text](G_1.jpg)
-![Alt Text](G_2.jpg)
