@@ -98,5 +98,5 @@ The wireless power transmission project provides a foundational understanding of
 
 
 ```markdown
-![G_2](https://github.com/user-attachments/assets/0ddede73-dec1-4a73-82d2-a34dd93b8f11)
-![G_1](https://github.com/user-attachments/assets/15bc0531-cbc5-4ca7-a3d0-cb51f29a9541)
+![Alt Text](G_1.jpg)
+![Alt Text](G_2.jpg)
